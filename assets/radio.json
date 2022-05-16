@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "92.7",
+               "tagline": "Suno Sunao, Life Banao!",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "http://sc-bb.1.fm:8017/;",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "91.1",
+               "tagline": "FM Bole to RADIO CITY",
+               "color": "0xff221420",
+               "desc": "Radio City is India's first private FM station. Aired in 2001, Radio City 91.1 has always thrived to make their listeners experience every decade's legacy through various forms of entertainment. ",
+               "url": "https://prclive1.listenon.in/",
+               "icon": "https://cdn.onlineradiobox.com/img/l/6/3906.v9.png",
+               "image": "https://images.barewalls.com/comp/art-print-poster/bwc61390462/bollywood-is-a-traditional-indian-movie-vector-illustration-with-marquee-lights.jpg",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "pop",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "102",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://www.theknotnews.com/wp-content/uploads/2017/02/Fifty-Shades-Poster.jpg",
+               "lang": "English",
+               "disliked": false,
+               "category": "trending",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "104",
+               "tagline": "Hip-hop Hits",
+               "color": "0xff066c53",
+               "desc": "For my G",
+               "url": "https://stream.zeno.fm/fw0y0vfas2zuv",
+               "icon": "https://i.ebayimg.com/images/g/2ykAAOSwOghfoVFp/s-l300.jpg",
+               "image": "https://i.ebayimg.com/images/g/2ykAAOSwOghfoVFp/s-l300.jpg",
+               "lang": "English",
+               "category": "hip-hop",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "95",
+               "tagline": "Bebop for life",
+               "color": "0xff0d487d",
+               "desc": "Keep calm and play jazz. Dance is good for the soul. Bebop for life. Feeling the blues.",
+               "url": "https://streaming.wkar.msu.edu/wkar-jazz",
+               "icon": "https://cdn.onlineradiobox.com/img/l/2/31782.v2.png",
+               "image": "https://static8.depositphotos.com/1113936/807/v/450/depositphotos_8075926-stock-illustration-saxophone-player-in-skyscraper-city.jpg",
+               "lang": "English",
+               "category": "jazz",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "102.2",
+               "tagline": "YOUR RELAXING MUSIC MIX",
+               "color": "0xff27383e",
+               "desc": "YOUR RELAXING MUSIC MIX from LONDON",
+               "url": "https://media-ssl.musicradio.com/SmoothLondonMP3",
+               "icon": "https://cdn.onlineradiobox.com/img/l/4/964.v9.png",
+               "image": "https://st.depositphotos.com/1351697/3887/v/950/depositphotos_38876357-stock-illustration-retro-party-poster-design.jpg?",
+               "lang": "English",
+               "category": "retro",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "for WEEBS",
+               "color": "0xffa06a37",
+               "desc": "For Anime Lovers",
+               "url": "https://kathy.torontocast.com:2880/1.mp3",
+               "icon": "https://cdn.onlineradiobox.com/img/l/0/6280.v8.png",
+               "image": "https://img-9gag-fun.9cache.com/photo/aXYNRrb_700bwp.webp",
+               "lang": "japanese",
+               "category": "rock",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Bollywood Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://stream.zeno.fm/m3g97f8eqm0uv",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
